@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayakdhaybar09
 - 👀 I’m interested in Web Developmet (MERN Stack)
-- 🌱 I’m currently learning React Native and Advance Python
+- 🌱 I’m currently learning React Native.
 - 📫 Email-vinayakdhaybar09@gmail.com
 
 <!---
